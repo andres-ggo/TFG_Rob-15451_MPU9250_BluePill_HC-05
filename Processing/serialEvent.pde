@@ -1,3 +1,4 @@
+/* Andres Gomez (2021), a partir del codigo de Juan Palomares (2020) */
 
 // Esta funcion procesa la informacion que le llega por el bus serie. Se activa cuando llega algo.
 
