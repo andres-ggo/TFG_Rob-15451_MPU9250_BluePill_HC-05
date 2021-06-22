@@ -1,3 +1,4 @@
+/*Andres Gomez 2021*/
 
 void setup(){
   Serial1.begin(115200); // Se inicializa el puerto serie 1 del STM32, es decir, la conexion con el modulo HC-05.
