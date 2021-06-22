@@ -1,3 +1,4 @@
+/* Andres Gomez (2021), a partir del codigo de Juan Palomares (2020) */
 
 // Esta funcion muestra la informacion relativa a la orientacion obtenida mediante la IMU.
 
