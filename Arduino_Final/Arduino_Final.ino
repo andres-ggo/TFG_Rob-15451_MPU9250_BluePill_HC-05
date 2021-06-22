@@ -1,4 +1,4 @@
-/*Andres Gomez y Miguel Reurer 2021*/
+/*Andres Gomez 2021*/
 
 
 #include "MPU9250.h" //Libreria de rafacastalla (https://github.com/rafacastalla/MPU9250-1)
