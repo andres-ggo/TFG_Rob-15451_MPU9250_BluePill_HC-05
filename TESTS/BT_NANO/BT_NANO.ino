@@ -1,3 +1,5 @@
+/*Andres Gomez 2021*/
+
 #include <SoftwareSerial.h> // Se incluye la libreria SoftwareSerial, obtenida en https://github.com/PaulStoffregen/SoftwareSerial .
 SoftwareSerial BT(3,4); // Se definen respectivamente los pines RX y TX de arduino que se conectan al HC-05.
 
